@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="docs/assets/role-sleuth-mark.svg" alt="RoleSleuth logo" width="120" />
   <h1>RoleSleuth</h1>
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=FF3131&center=true&vCenter=true&width=900&lines=Researcher+:+dontaskmehow;High+Speed+CLI;Consumes+Recorded+HTTP+Traffic+From+Burp+Suite;For+BOLA+Or+IDOR+Vulnerabilities" alt="MARABUSE banner" />
   <p>
     <strong>Multi-role authorization auditing for bug bounty hunters and pentesters.</strong>
   </p>
