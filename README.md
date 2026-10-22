@@ -12,12 +12,12 @@
     <a href="#how-it-works">How it works</a> ·
     <a href="#usage">Usage</a>
   </p>
-</div>
-
+  
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![CLI](https://img.shields.io/badge/Interface-CLI-0E7490)](https://github.com/dntaskmehow/RoleSleuth)
 [![HAR](https://img.shields.io/badge/Input-HAR-111827)](https://en.wikipedia.org/wiki/HAR_(file_format))
-
+  
+</div>
 RoleSleuth is a high-speed CLI tool built for security research and web app testing. It consumes recorded HTTP traffic from Burp Suite, OWASP ZAP, or browser developer tools, replays the same request set under different role contexts, and looks for authorization mismatches that suggest BOLA or IDOR vulnerabilities.
 
 ## Why it exists
